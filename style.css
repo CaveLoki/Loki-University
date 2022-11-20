@@ -195,9 +195,9 @@ span {
     background-color: rgba(34, 71, 36, 0.6);
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
-    width: 50%;
+    width: 65%;
     height: 85vh;
-    top: 90px;
+    top: 50px;
     right: 0;
     position: absolute;
     z-index: 3;
@@ -215,7 +215,7 @@ span {
     }
     .nav-links ul li{
         display: block;
-        margin-top: 70px;
+        margin-top: 40px;
         opacity: 0;
     }
     .nav-links ul{
@@ -316,7 +316,7 @@ span {
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
-    height: 390px;
+    max-height: 400px;
     transition: all 0.5s ease-in-out;
     /* border: 1px solid black; */
 }
