@@ -171,9 +171,9 @@ span {
     .landing{
         overflow-x: hidden;
     }
-        nav {
+        /* nav {
             padding-top: 10%;
-        }
+        } */
     button{
         padding: 10px 26px;
         font-size: 12px;
